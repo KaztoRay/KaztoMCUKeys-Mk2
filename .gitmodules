@@ -1,0 +1,9 @@
+[submodule "pico-sdk"]
+	path = pico-sdk
+	url = https://github.com/raspberrypi/pico-sdk.git
+[submodule "pico-keys-sdk/third-party/tinycbor"]
+	path = pico-keys-sdk/third-party/tinycbor
+	url = https://github.com/intel/tinycbor.git
+[submodule "pico-keys-sdk/third-party/mbedtls"]
+	path = pico-keys-sdk/third-party/mbedtls
+	url = https://github.com/Mbed-TLS/mbedtls.git
